@@ -1,5 +1,3 @@
-## About Me
-
 Hi there! 👋 I'm Hanna, a passionate aspiring full stack developer currently based in Kitee, Finland 🌍. 
 
 ### 🚀 Quick Overview:
@@ -14,15 +12,9 @@ Hi there! 👋 I'm Hanna, a passionate aspiring full stack developer currently b
 - Backend: Node.js, PostgreSQL, Docker
 - Tools & Others: Git, GitHub, VS Code, DBeaver, Miro, Slack
 
-### 🌟 What I Bring to the Table:
-
-- A strong passion for coding and problem-solving.
-- Dedication to writing clean, efficient, and maintainable code.
-- Excellent communication skills and a collaborative mindset.
-
 ### 📫 Get in Touch:
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/hanna-korniienko-66bb81243/
+- 💼 LinkedIn: [https://www.linkedin.com/in/hanna-korniienko-66bb81243/]
 - 📧 Email: altamar133@gmail.com
 
 Feel free to reach out if you'd like to connect, collaborate, or just chat about tech and development! Let's build awesome things together. 😊
