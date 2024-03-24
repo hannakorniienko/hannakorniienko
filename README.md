@@ -14,8 +14,10 @@ Hi there! 👋 I'm Hanna, a passionate aspiring full stack developer currently b
 
 ### 📫 Get in Touch:
 
-- 💼 LinkedIn: https://www.linkedin.com/in/hanna-korniienko-66bb81243/
 - 📧 Email: hanna.a.korniienko@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/hanna-korniienko-66bb81243)
+- 🌐 [CV](https://www.canva.com/design/DAF_r7X2-PQ/cKfSnvQMDbWSmMAO3fS2LA/view?utm_content=DAF_r7X2-PQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 Feel free to reach out if you'd like to connect, collaborate, or just chat about tech and development! Let's build awesome things together. 😊
 
