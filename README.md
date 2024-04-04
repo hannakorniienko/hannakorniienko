@@ -1,10 +1,8 @@
-Hi there! 👋 I'm Hanna, a passionate aspiring full stack developer currently based in Kitee, Finland 🌍. 
+Hi there! 👋 I'm Hanna, a passionate full stack developer currently based in Kitee, Finland 🌍. 
 
 ### 🚀 Quick Overview:
 
-- 💻 On a journey of continuous improvement, constantly enhancing my skills in full stack development.
-- 🌱 Exploring various technologies and frameworks to expand my knowledge base.
-- 🛠️ Actively building projects to apply what I've learned and to challenge myself with new concepts.
+💻 On a journey of continuous improvement, constantly enhancing my skills in full stack development.
 
 ### 🛠️ Skills:
 
