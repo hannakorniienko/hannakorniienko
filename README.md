@@ -1,9 +1,3 @@
-Hi there! 👋 I'm Hanna, a passionate full stack developer currently based in Kitee, Finland 🌍. 
-
-### 🚀 Quick Overview:
-
-💻 On a journey of continuous improvement, constantly enhancing my skills in full stack development.
-
 ### 🛠️ Skills:
 
 - Frontend: HTML, CSS, JavaScript, Typescript, React.js, Storybook
